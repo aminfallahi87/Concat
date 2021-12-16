@@ -9,9 +9,8 @@ Digital and Analog Clock
 ## Authors
 
 Contributors names and contact info
-
-ex. Amin Fallahi  
-ex. [@amin fallahi](aminfallahi87@gmail.com)
+  
+[Amin fallahi](aminfallahi87@gmail.com)
 
 ## Version History
 
